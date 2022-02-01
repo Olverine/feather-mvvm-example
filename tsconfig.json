@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "app",
+        "noImplicitAny": true,
+        "target": "es2015",
+        "allowJs": false,
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    }
+}
